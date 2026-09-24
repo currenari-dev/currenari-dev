@@ -23,4 +23,4 @@ Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.co
 
 Jay | North West of England
 
-(C) 2026 Currenari. All rights reserved.
+(C) 2026 Currenari.
