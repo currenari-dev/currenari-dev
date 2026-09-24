@@ -1,4 +1,4 @@
-# Currenari Sounds — Audio Engineering & DSP Lab
+# Currenari Sounds
 
 > Studio-grade audio DSP plugins, physical acoustic synthesis, and sovereign audio tooling by Currenari Sounds.
 
@@ -43,13 +43,6 @@ https://raw.githubusercontent.com/currenari-dev/CURS-jsfx/main/index.xml
 * **Core Architecture:** Non-linear tape saturation, sub-harmonic undertone synthesis, 8-channel Feedback Delay Network (FDN) abyss acoustics, and physical felt piano modeling.
 * **Live Engine:** Low-latency ALSA / PipeWire streaming for Zoom field recorders and acoustic microphone improvisation.
 * **Status:** Maintained strictly in private studio development, bench testing, and internal production.
-
----
-
-## 3. Open Source Hardware
-
-For open-source hardware engineering and embedded electronics (including the OSHWA UK000086-certified **Spectrum One** ESP32 WiFi Activity Monitor), visit our hardware organization:
-👉 **[@currenari](https://github.com/currenari)**
 
 ---
 
