@@ -1,53 +1,26 @@
-# Currenari Sounds
+# Jay Currenari
 
-> Studio-grade audio DSP plugins, physical acoustic synthesis, and sovereign audio tooling by Currenari Sounds.
+> Audio DSP developer, sound artist, and open hardware designer.
 
-Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.com](mailto:support@currenari.com)
+Founder and lead engineer at **[Currenari Sounds](https://github.com/currenari)** and **[Currenari Lab](https://github.com/currenari-lab)**.
 
----
-
-## 1. REAPER JSFX Audio Plugins (`CURS-jsfx`)
-
-Official open-source audio processing suite for Cockos REAPER.
-
-### 1-Click ReaPack Installation
-Add the official Currenari repository URL directly in REAPER via **Extensions** -> **ReaPack** -> **Manage repositories...** -> **Import**:
-```text
-https://raw.githubusercontent.com/currenari-dev/CURS-jsfx/main/index.xml
-```
+Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.com](mailto:support@currenari.com) | Location: North West of England
 
 ---
 
-### Featured Audio Plugins
+## Organizations & Active Projects
 
-#### Tape Stop & Reverse Decelerator (CURS)
-* **Category:** Tape & Time FX (`currenari_tape_stop.jsfx`)
-* **Features:** Authentic analog motor deceleration inertia (reel tape & heavy vinyl), continuous musical reverse playback with selectable window divisions, spin-up release engine with customizable curves, dynamic tape head darkening, and animated dual-reel transport GUI.
+### [Currenari Sounds](https://github.com/currenari) — Audio Software & DSP
+* **Cockos REAPER JSFX Suite ([`currenari/CURS-jsfx`](https://github.com/currenari/CURS-jsfx))**: Studio-grade DSP plugins including Tape Stop & Reverse Decelerator and Acoustic Resonator.
+* **1-Click ReaPack Repository**: `https://raw.githubusercontent.com/currenari/CURS-jsfx/main/index.xml`
+* **Sound Design & Releases**: UCS v8.2 compliant sound library and cinematic dark ambient productions on [currenari.com](https://currenari.com).
 
-<img src="https://raw.githubusercontent.com/currenari-dev/CURS-jsfx/main/screenshot_tape_stop.png" alt="Tape Stop & Reverse Decelerator" width="680">
-
-#### Acoustic Resonator (CURS)
-* **Category:** Resonators & Synthesizers (`currenari_acoustic_resonator.jsfx`)
-* **Features:** 8-mode calibrated modal bank with 17 physical acoustic materials (terracotta, bronze bowls, spruce tone wood, cathedral bells), 16-tap Velvet Cloud diffuser, mallet/bowed excitation engine, sub foundation, and live real-time Chladni modal display.
-
-<img src="https://raw.githubusercontent.com/currenari-dev/CURS-jsfx/main/screenshot_acoustic_resonator.png" alt="Acoustic Resonator" width="680">
-
-**Repository:** [`currenari-dev/CURS-jsfx`](https://github.com/currenari-dev/CURS-jsfx)
+### [Currenari Lab](https://github.com/currenari-lab) — Open Hardware & Electronics
+* **Spectrum One ([`currenari-lab/spectrum-one`](https://github.com/currenari-lab/spectrum-one))**: ESP32-based 2.4 GHz WiFi activity monitor and bargraph visualizer (OSHWA UK000086).
+* **Hardware Documentation**: Complete illustrated engineering book, KiCad schematics, BOM, and firmware source.
 
 ---
 
-## 2. In Private R&D: Currenari One
+Jay | North West of England
 
-**Currenari One** is our flagship sovereign C++20 audio workstation and live performance engine, engineered specifically for cinematic dark ambient, neoclassical scoring, and UCS v8.2 sound library production. 
-
-* **Core Architecture:** Non-linear tape saturation, sub-harmonic undertone synthesis, 8-channel Feedback Delay Network (FDN) abyss acoustics, and physical felt piano modeling.
-* **Live Engine:** Low-latency ALSA / PipeWire streaming for Zoom field recorders and acoustic microphone improvisation.
-* **Status:** Maintained strictly in private studio development, bench testing, and internal production.
-
----
-
-### License & Terms of Use
-
-All open-source JSFX audio plugins in `CURS-jsfx` are 100% free and royalty-free for private and commercial music production and sound design.
-
-(C) 2026 Currenari Sounds. All rights reserved.
+(C) 2026 Currenari. All rights reserved.
