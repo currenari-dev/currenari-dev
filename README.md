@@ -1,6 +1,6 @@
-# Currenari Sounds & Engineering
+# Currenari Sounds — Audio Engineering & DSP Lab
 
-> Studio-grade audio DSP plugins, physical acoustic synthesis, and open-source hardware by Currenari Sounds.
+> Studio-grade audio DSP plugins, physical acoustic synthesis, and sovereign audio tooling by Currenari Sounds.
 
 Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.com](mailto:support@currenari.com)
 
@@ -11,7 +11,7 @@ Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.co
 Official open-source audio processing suite for Cockos REAPER.
 
 ### 1-Click ReaPack Installation
-Add this repository URL in REAPER via **Extensions** -> **ReaPack** -> **Manage repositories...** -> **Import**:
+Add the official Currenari repository URL directly in REAPER via **Extensions** -> **ReaPack** -> **Manage repositories...** -> **Import**:
 ```text
 https://raw.githubusercontent.com/currenari-dev/CURS-jsfx/main/index.xml
 ```
@@ -36,20 +36,25 @@ https://raw.githubusercontent.com/currenari-dev/CURS-jsfx/main/index.xml
 
 ---
 
-## 2. Open Source Hardware: Spectrum One
+## 2. In Private R&D: Currenari One
 
-A compact WiFi activity monitor built on ESP32. Scans wireless signals and displays live network traffic on an LCD and 10-segment LED bar with one-button control.
+**Currenari One** is our flagship sovereign C++20 audio workstation and live performance engine, engineered specifically for cinematic dark ambient, neoclassical scoring, and UCS v8.2 sound library production. 
 
-<img src="https://raw.githubusercontent.com/currenari/spectrum-one/main/img/spectrum_one_1600.jpg" alt="Spectrum One" width="600">
+* **Core Architecture:** Non-linear tape saturation, sub-harmonic undertone synthesis, 8-channel Feedback Delay Network (FDN) abyss acoustics, and physical felt piano modeling.
+* **Live Engine:** Low-latency ALSA / PipeWire streaming for Zoom field recorders and acoustic microphone improvisation.
+* **Status:** Maintained strictly in private studio development, bench testing, and internal production.
 
-* **OSHWA Certified:** [UK000086](https://certification.oshwa.org/uk000086.html)
-* **Book & Documentation:** [ESP32 WiFi Activity Monitor PDF](https://github.com/currenari/spectrum-one/raw/main/docs/ESP32%20WiFi%20Activity%20Monitor.pdf)
-* **Repository:** [`currenari/spectrum-one`](https://github.com/currenari/spectrum-one)
+---
+
+## 3. Open Source Hardware
+
+For open-source hardware engineering and embedded electronics (including the OSHWA UK000086-certified **Spectrum One** ESP32 WiFi Activity Monitor), visit our hardware organization:
+👉 **[@currenari](https://github.com/currenari)**
 
 ---
 
 ### License & Terms of Use
 
-All audio plugins and software tools are 100% free and royalty-free for private and commercial music production and sound design.
+All open-source JSFX audio plugins in `CURS-jsfx` are 100% free and royalty-free for private and commercial music production and sound design.
 
 (C) 2026 Currenari Sounds. All rights reserved.
